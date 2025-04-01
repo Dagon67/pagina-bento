@@ -2,6 +2,8 @@
 
 Uma landing page moderna e responsiva construída com HTML5, SCSS e JavaScript puro. O projeto utiliza as melhores práticas de desenvolvimento web e oferece uma experiência de usuário fluida e agradável.
 
+https://projetobento.com.br/
+
 ## Características
 
 - Design moderno e minimalista
