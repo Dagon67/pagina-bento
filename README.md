@@ -211,6 +211,6 @@ $desktop: 1024px;
 
 ## Contato
 
-Seu Nome - [@Dagon67](https://github.com/Dagon67)
+[@Dagon67](https://github.com/Dagon67)
 
 Link do Projeto: [https://github.com/Dagon67/pagina-bento](https://github.com/Dagon67/pagina-bento)
